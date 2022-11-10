@@ -1,0 +1,23 @@
+
+
+.main{
+    font: 'Cormorant SC';
+    color: white;
+    background-color: #171717;
+}
+
+footer{
+    padding-top: 90% ;
+    text-align: center;
+}
+
+.jared{
+    color: #A0C1B8;
+}
+
+.avatar{
+    display: block;
+    margin: 20,80;
+    border-radius: 60%;
+
+}
